@@ -39,3 +39,14 @@ public class inorderBT {
 
     }
 }
+
+
+//output: In-order traversal :
+/*4
+2
+5
+1
+6
+3*/
+//TC=O(N) ;
+//SC=O(h); height of tree due to recursion
