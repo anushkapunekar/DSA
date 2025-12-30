@@ -49,4 +49,4 @@ public class inorderBT {
 6
 3*/
 //TC=O(N) ;
-//SC=O(h); height of tree due to recursion
+//SC=O(h); height of tree due to recursion..
