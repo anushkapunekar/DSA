@@ -37,4 +37,12 @@ public class preorderBT {
     }
 }
 
-
+/*Pre-order traversal results:
+1
+2
+4
+5
+3
+*/
+//TC=O(N);
+//SC=O(H); ...
