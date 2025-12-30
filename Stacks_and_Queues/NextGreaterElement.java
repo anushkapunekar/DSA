@@ -32,6 +32,6 @@ public static int[] findNGE(int[] arr) {
         int[] arr = {4, 5, 2, 10, 8};
         int[] result = findNGE(arr);
         for (int x : result) System.out.print(x + " "); 
-        // Output: 5 10 10 -1 -1
+        // Output: 5 10 10 -1 -1.
     }
 }
