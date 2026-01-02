@@ -56,4 +56,4 @@ public class isValidBST {
 }
 
 //TC=o(n);
-//SC=o(h);
+//SC=o(h); h = height
