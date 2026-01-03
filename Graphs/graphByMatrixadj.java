@@ -19,3 +19,4 @@ public class graphByMatrixadj {
         }
     }
 }
+//tc = o(n^2)
